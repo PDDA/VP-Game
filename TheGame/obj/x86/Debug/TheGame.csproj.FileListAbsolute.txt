@@ -1,0 +1,91 @@
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\bin\Debug\TheGame.exe
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Ata\AppData\Local\Temporary Projects\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ata\Documents\Visual Studio 2010\Projects\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Users\david.pavloski\Desktop\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.csprojResolveAssemblyReference.cache
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Ata\Desktop\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Ata\Desktop\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ata\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.Pravila.resources
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.csprojResolveAssemblyReference.cache
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.Pravila.resources
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\david.pavloski\Downloads\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\TheGame.Pravila.resources
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ata\Desktop\Proekt\TheGame\TheGame\obj\x86\Debug\TheGame.Kraj.resources
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.csprojResolveAssemblyReference.cache
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Kraj.resources
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Pravila.resources
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Users\david.pavloski\Downloads\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Izgubi.resources
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Izgubi.resources
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Kraj.resources
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Pravila.resources
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ata\Desktop\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.csprojResolveAssemblyReference.cache
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Izgubi.resources
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Kraj.resources
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Pravila.resources
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Users\david.pavloski\Desktop\FinalenProekt\FinalenProekt\TheGame (1)\TheGame\TheGame\obj\x86\Debug\TheGame.PracticeOver.resources
